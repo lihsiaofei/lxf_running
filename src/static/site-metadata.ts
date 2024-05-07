@@ -12,7 +12,6 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'LXF Running Page',
   siteUrl: 'https://lihsiaofei.github.io/lxf_running/',
-  logo: '#',
   description: 'Personal site and blog',
   navLinks: [],
 };
